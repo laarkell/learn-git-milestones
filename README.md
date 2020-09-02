@@ -2,7 +2,7 @@
 
 Below is a list of tasks. By mid-semester, everyone should...
 
-1. Understand what the task is asking
+1. Understand     what the task is asking
 1. Be able to do the task
 1. Make it clear through your actions you understand what's happening
 
