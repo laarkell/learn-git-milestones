@@ -109,31 +109,31 @@ You should be able to ...
 Now that we have basic Git commands out of the way use Git to create and turn in your DIG 245 assignment ...
 
 
-- [ ] In Github Desktop, create a new repository ...
-  - [ ] Name: `dig245-a1`
-  - [ ] Local Path: Click "Choose" and create a new folder `dig245-a1` inside the `critical-web-design` folder you made above
-  - [ ] Click Create Repository
-  - [ ] This should now be your class folder's directory structure.
+- [x] In Github Desktop, create a new repository ...
+  - [x] Name: `dig245-a1`
+  - [x] Local Path: Click "Choose" and create a new folder `dig245-a1` inside the `critical-web-design` folder you made above
+  - [x] Click Create Repository
+  - [x] This should now be your class folder's directory structure.
   ```
   critical-web-design
     |-- dig245-a1
     |-- learn-git-milestones
   ```
-- [ ] Open your new repository in Atom (with Github Desktop or drag the `dig245-a1` project folder into Atom)
-  - [ ] Add a README file: `README.md`
-  - [ ] In the README write your name and the date
-  - [ ] Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-- [ ] Complete Assignment 1
-  - [ ] Create a file called `index.html` in your repo
-  - [ ] See the instructions in [Assignment 1](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
-  - [ ] Test your file in a web browser
-  - [ ] Commit and push the files to Github
-- [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
-  - [ ] Choose "Project site"
-  - [ ] Do not use a theme. Start from scratch
-  - [ ] In your repository settings, scroll aaaaallllll the way down to the Github Pages section, select the master branch source and click save
-  - [ ] Visit your project site at http://*username*.github.io/dig245-a1
-  - [ ] Paste this link into the appropriate Moodle forum
+- [x] Open your new repository in Atom (with Github Desktop or drag the `dig245-a1` project folder into Atom)
+  - [x] Add a README file: `README.md`
+  - [x] In the README write your name and the date
+  - [x] Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [x] Complete Assignment 1
+  - [x] Create a file called `index.html` in your repo
+  - [x] See the instructions in [Assignment 1](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
+  - [x] Test your file in a web browser
+  - [x] Commit and push the files to Github
+- [x] Set up a [Github page](https://pages.github.com/) "project site" for your repo
+  - [x] Choose "Project site"
+  - [x] Do not use a theme. Start from scratch
+  - [x] In your repository settings, scroll aaaaallllll the way down to the Github Pages section, select the master branch source and click save
+  - [x] Visit your project site at http://*username*.github.io/dig245-a1
+  - [x] Paste this link into the appropriate Moodle forum
 
 
 ## Git Fluency
