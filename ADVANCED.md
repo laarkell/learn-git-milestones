@@ -49,19 +49,19 @@ You should be able to explain what each of these do:
 ### Fetch from Upstream
 You should be able to sync a fork of a repository to keep it up-to-date with the upstream repository.
 
-- [ ] With Github Desktop...
-  - [ ] While in the default branch (`master`) switch to the history tab
-  - [ ] Select the branch called `upstream/master` and click "Merge into master"
-- [ ] Or, on command line
-  - [ ] Fetch project branches from the upstream repository to get all the commits:
+- [x] With Github Desktop...
+  - [x] While in the default branch (`master`) switch to the history tab
+  - [x] Select the branch called `upstream/master` and click "Merge into master"
+- [x] Or, on command line
+  - [x] Fetch project branches from the upstream repository to get all the commits:
   ```
   git fetch upstream
   ```
-  - [ ] Check out the master branch from your local fork
+  - [x] Check out the master branch from your local fork
   ```
   git checkout master
   ```
-  - [ ] Merge the changes from `upstream/master` into your local `master` branch. Your fork’s master branch will be in sync with the upstream repository. You will not lose your local changes:
+  - [x] Merge the changes from `upstream/master` into your local `master` branch. Your fork’s master branch will be in sync with the upstream repository. You will not lose your local changes:
   ```
   git merge upstream/master
   ```
