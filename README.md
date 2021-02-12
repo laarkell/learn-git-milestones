@@ -70,8 +70,8 @@ Create a Github account and make your first commit
 ### Git Installation
 Install your development environment
 
-- [ ] Install [Atom](https://atom.io/) on your machine
-- [ ] Install Git on your machine
+- [x] Install [Atom](https://atom.io/) on your machine
+- [x] Install Git on your machine
 
 
 
