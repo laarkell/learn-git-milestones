@@ -107,20 +107,20 @@ You should be able to ...
 
 
 ## Turn in Assignments
-Now that we have basic Git commands out of the way use Git to create and turn in your DIG 245 assignment ...
+Now that we have basic Git commands out of the way use Git to create and turn in your DIG 345 assignment ...
 
 
 - [x] In Github Desktop, create a new repository ...
-  - [x] Name: `dig245-a1`
-  - [x] Local Path: Click "Choose" and create a new folder `dig245-a1` inside the `critical-web-design` folder you made above
+  - [x] Name: `dig345-a1`
+  - [x] Local Path: Click "Choose" and create a new folder `dig345-a1` inside the `radical-software` folder you made above
   - [x] Click Create Repository
   - [x] This should now be your class folder's directory structure.
   ```
   critical-web-design
-    |-- dig245-a1
+    |-- dig345-a1
     |-- learn-git-milestones
   ```
-- [x] Open your new repository in Atom (with Github Desktop or drag the `dig245-a1` project folder into Atom)
+- [x] Open your new repository in Atom (with Github Desktop or drag the `dig345-a1` project folder into Atom)
   - [x] Add a README file: `README.md`
   - [x] In the README write your name and the date
   - [x] Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
@@ -133,7 +133,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
   - [x] Choose "Project site"
   - [x] Do not use a theme. Start from scratch
   - [x] In your repository settings, scroll aaaaallllll the way down to the Github Pages section, select the master branch source and click save
-  - [x] Visit your project site at http://*username*.github.io/dig245-a1
+  - [x] Visit your project site at http://laarkell.github.io/dig245-a1
   - [x] Paste this link into the appropriate Moodle forum
 
 
