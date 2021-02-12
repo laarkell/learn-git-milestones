@@ -57,10 +57,10 @@ You should be able to ...
 
 - [x] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
   - [x] File > Clone Repository > Github.com and select it ...
-  - [x] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `critical-web-design`
+  - [x] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `radical-software`
   - [x] Click "Clone" to make a local copy
 - [x] Open the repo in Atom: Repository > Open in Atom  
-- [x] In Atom, edit this README file and add your *second* favorite emoji here: **😮**
+- [x] In Atom, edit this README file and add your *second* favorite emoji here: **🌍**
 - [x] In Github Desktop, confirm the README file was saved and shows your new changes in the Changes tab
 - [x] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
 - [x] Click Push origin to push your changes back to remote repo  
