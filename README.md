@@ -60,19 +60,20 @@ Here are some popular tutorials/guides. You should **still look for other ones t
 ### Fork this repository
 Create a Github account and make your first commit
 
-- [x] [Create a Github account](https://github.com/join)
-- [x] Fork this repository [learn-git-milestones](https://github.com/omundy/learn-git-milestones) (click the Fork button, top right).
-- [x] ✏️ Edit the README file (click the pencil icon) and add your favorite emoji here: **🌍**
-- [x] ✏️ Replace the space in the `[ ]` preceding each of the lines you complete with an x so they look like `[x]`
-- [x] ✏️ Commit changes to the README file directly to the main branch with the message `commit #1 from Github.com`
-- [x] View the commit history and confirm your edits
+- [ ] [Create a Github account](https://github.com/join)
+- [ ] Fork this repository [learn-git-milestones](https://github.com/omundy/learn-git-milestones) (click the Fork button, top right).
+- [ ] ✏️ Edit the README file (click the pencil icon) and add your favorite emoji here: **??**
+- [ ] ✏️ Replace the space in the `[ ]` preceding each of the lines you complete with an x so they look like `[x]`
+- [ ] ✏️ Commit changes to the README file directly to the main branch with the message `commit #1 from Github.com`
+- [ ] View the commit history and confirm your edits
 
 
 ### Git Installation
 Install your development environment
 
-- [x] Install [Atom](https://atom.io/) on your machine
-- [x] Install Git on your machine
+- [ ] Install [Atom](https://atom.io/) on your machine
+- [ ] Install Git on your machine
+
 
 
 Windows: Install [Git for Windows](https://gitforwindows.org/) (includes [Git BASH](https://www.atlassian.com/git/tutorials/git-bash), its own version of the bash shell)
@@ -96,17 +97,23 @@ You should be able to perform a basic Git workflow using Github.com, the command
 ### In Github Desktop
 You should be able to ...
 
-- [x] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
-  - [x] File > Clone Repository > Github.com and select it ...
-  - [x] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<radical-software>`
-  - [x] Click "Clone" to make a local copy
-- [x] Open the repo in Atom: Repository > Open in Atom  
-- [x] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **🌞**
-- [x] In Github Desktop, confirm the README file was saved and shows your new changes in the Changes tab
-- [x] ✏️ Commit your changes to the README file directly to the main branch with the message `commit #2 from Github Desktop`
+- [x] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
+- [x] Click Push origin to push your changes back to remote repo  
+- [x] Confirm the changes to the README file were pushed: Choose Repository > View on Github
+- [x] Click on the README file and then click on History to see the history of this file
+=======
+- [ ] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
+  - [ ] File > Clone Repository > Github.com and select it ...
+  - [ ] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<your-class-name-here>`
+  - [ ] Click "Clone" to make a local copy
+- [ ] Open the repo in Atom: Repository > Open in Atom  
+- [ ] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **??**
+- [ ] In Github Desktop, confirm the README file was saved and shows your new changes in the Changes tab
+- [ ] ✏️ Commit your changes to the README file directly to the main branch with the message `commit #2 from Github Desktop`
 - [ ] Click Push origin to push your changes back to remote repo  
 - [ ] Confirm the changes to the README file were pushed: Choose Repository > View on Github
 - [ ] Click on the README file and then click on History to see the history of this file
+>>>>>>> 8477291353c3567f49589bc839c236e4a231afa5
 
 
 ### Command line (CLI)
@@ -145,8 +152,26 @@ You should be able to ...
 - [ ] ✏️ Commit your changes directly to the main branch with the message `commit #4 from Atom`
 
 
+
+
 ## Create a new repository
 
+- [x] Open your new repository in Atom (with Github Desktop or drag the `dig345-a1` project folder into Atom)
+  - [x] Add a README file: `README.md`
+  - [x] In the README write your name and the date
+  - [x] Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [x] Complete Assignment 1
+  - [x] Create a file called `index.html` in your repo
+  - [x] See the instructions in [Assignment 1](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
+  - [x] Test your file in a web browser
+  - [x] Commit and push the files to Github
+- [x] Set up a [Github page](https://pages.github.com/) "project site" for your repo
+  - [x] Choose "Project site"
+  - [x] Do not use a theme. Start from scratch
+  - [x] In your repository settings, scroll aaaaallllll the way down to the Github Pages section, select the master branch source and click save
+  - [x] Visit your project site at http://laarkell.github.io/dig245-a1
+  - [x] Paste this link into the appropriate Moodle forum
+=======
 - [ ] Create a repository from scratch
   - [ ] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
   - [ ] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
