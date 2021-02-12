@@ -167,23 +167,23 @@ You should be able to ...
   - [x] Choose "Project site"
   - [x] Do not use a theme. Start from scratch
   - [x] In your repository settings, scroll aaaaallllll the way down to the Github Pages section, select the master branch source and click save
-  - [x] Visit your project site at http://laarkell.github.io/dig245-a1
+  - [x] Visit your project site at http://laarkell.github.io/dig345-a1
   - [x] Paste this link into the appropriate Moodle forum
 =======
-- [ ] Create a repository from scratch
-  - [ ] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
-  - [ ] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
-  - [ ] Click Create Repository
-  - [ ] This should now be your class folder's directory structure.
+- [x] Create a repository from scratch
+  - [x] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
+  - [x] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<radical-software>` folder you made above
+  - [x] Click Create Repository
+  - [x] This should now be your class folder's directory structure.
   ```
   <your-class-name-here>
     |-- my-awesome-project
     |-- learn-git-milestones
   ```
-  - [ ] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder into Atom)
-  - [ ] ✏️ Add a README file: `README.md`
-  - [ ] ✏️ In the README write your name and the date
-  - [ ] ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  - [x] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder into Atom)
+  - [x] ✏️ Add a README file: `README.md`
+  - [x] ✏️ In the README write your name and the date
+  - [x] ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
 
@@ -191,7 +191,7 @@ You should be able to ...
 ## Create a Github.io page
 Create a github.io site for your repository ...
 
-- [ ] ✏️ Create a file called `index.html` in your new repo and add the following html
+- [x] ✏️ Create a file called `index.html` in your new repo and add the following html
 ```
 <!DOCTYPE html>
 <html>
@@ -206,13 +206,13 @@ Create a github.io site for your repository ...
 </body>
 </html>
 ```
-- [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
-  - [ ] Go to the settings page for your repo on Github.com and scroll aaaaallllll the way down to the Github Pages section
-  - [ ] Select the main branch source and click save
-  - [ ] Do not use a theme. Start from scratch
-  - [ ] Visit your project site at http://*username*.github.io/my-awesome-project
-  - [ ] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
-  - [ ] Paste this link here:
+- [x] Set up a [Github page](https://pages.github.com/) "project site" for your repo
+  - [x] Go to the settings page for your repo on Github.com and scroll aaaaallllll the way down to the Github Pages section
+  - [x] Select the main branch source and click save
+  - [x] Do not use a theme. Start from scratch
+  - [x] Visit your project site at http://laarkell.github.io/my-awesome-project
+  - [x] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
+  - [x] Paste this link here: http://laarkell.github.io/my-awesome-project
 
 
 
