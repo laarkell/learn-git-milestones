@@ -40,7 +40,6 @@ After you've completed the [Git & Github lectures](https://docs.google.com/prese
 - **Classes** - This milestone is made to use with multiple classes, insert your own class name where you see `<your-class-name-here>` (e.g. `dig245-critical-web-design`)
 
 
-
 ## Resources
 
 Here are some popular tutorials/guides. You should **still look for other ones that you might like better**!
@@ -60,12 +59,12 @@ Here are some popular tutorials/guides. You should **still look for other ones t
 ### Fork this repository
 Create a Github account and make your first commit
 
-- [ ] [Create a Github account](https://github.com/join)
-- [ ] Fork this repository [learn-git-milestones](https://github.com/omundy/learn-git-milestones) (click the Fork button, top right).
-- [ ] ✏️ Edit the README file (click the pencil icon) and add your favorite emoji here: **??**
-- [ ] ✏️ Replace the space in the `[ ]` preceding each of the lines you complete with an x so they look like `[x]`
-- [ ] ✏️ Commit changes to the README file directly to the main branch with the message `commit #1 from Github.com`
-- [ ] View the commit history and confirm your edits
+- [x] [Create a Github account](https://github.com/join)
+- [x] Fork this repository [learn-git-milestones](https://github.com/omundy/learn-git-milestones) (click the Fork button, top right).
+- [x] ✏️ Edit the README file (click the pencil icon) and add your favorite emoji here: **🌞**
+- [x] ✏️ Replace the space in the `[ ]` preceding each of the lines you complete with an x so they look like `[x]`
+- [x] ✏️ Commit changes to the README file directly to the main branch with the message `commit #1 from Github.com`
+- [x] View the commit history and confirm your edits
 
 
 ### Git Installation
