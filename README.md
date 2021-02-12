@@ -93,7 +93,7 @@ You should have a basic familiarity with the command line in case you need to do
 You should be able to ...
 
 - [x] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
-- [x] In Atom, edit this README file and add your *third* favorite emoji here: **🐙**
+- [x] In Atom, edit this README file and add your *third* favorite emoji here: **🗻**
 - [x] Create a new file `hello.txt`, add some text and save it.
 - [x] Display the Git panel (click the small Git button at the bottom right).
 
