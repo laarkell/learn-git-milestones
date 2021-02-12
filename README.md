@@ -78,7 +78,7 @@ You should have a basic familiarity with the command line in case you need to do
   - [x] List files in this directory, including hidden: `ls -la`  
   - [x] Confirm the existence of the `.git` directory (where Git versions and config are stored)
   - [x] View your current directory and copy the full path: `pwd`
-  - [x] Open this README file in Atom and paste that path here: **/Users/laurenarkell/critical-web-design/learn-git-milestones**
+  - [x] Open this README file in Atom and paste that path here: **/Users/laurenarkell/radical-software/learn-git-milestones**
 - [x] Use Git on the CLI
   - [x] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
   - [x] View the status of your repo: `git status`
